@@ -8,7 +8,6 @@ Integrantes:
 *
 *
 *
-*
 
 Webs que sirven de referencia para este market place:
 * :
